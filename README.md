@@ -158,6 +158,7 @@
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Mailplane](https://mailplaneapp.com/) - A tightly integreted client for Google Mail, Inbox, Calender, and Contacts.
+- [Spool](https://joedesigns.com/spool) - Keyboard-driven IMAP email client built in Rust on Zed's GPU UI framework, with WebAssembly extensions. [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 
 
 ### Finder
